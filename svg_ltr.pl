@@ -72,7 +72,7 @@ my $slash = 150;
 #LEGEND WIDTH
 my $legend_width = 5;  # --width
 #SCALE LENGTH
-my $scale_size = 5000; # --scale
+my $scale_size = 10000; # --scale
 #TIC AMOUNTS
 my $tic = 10;          # --tic
 GetOptions('map_pair=s' => \$map_pair, 'map_solo=s' => \$map_solo, 'map_nltr=s' => \$map_nltr,
